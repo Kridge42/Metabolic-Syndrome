@@ -9,7 +9,8 @@ This data comes from the National Center for Statistics.
 
 link to data.world source: https://data.world/informatics-edu/metabolic-syndrome-prediction
 
-- seqn              - Identification number.
+- seqn              
+  - Identification number.
 - Age               - Age in years.
 - Sex               - Indentity of gender: Male or Female.
 - Martial           - Status: Married, Divorced, Single, Widowed, Separated.
