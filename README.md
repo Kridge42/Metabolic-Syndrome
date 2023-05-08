@@ -11,19 +11,19 @@ link to data.world source: https://data.world/informatics-edu/metabolic-syndrome
 
 - seqn--------------- Identification number.
 - Age---------------- Age in years.
-- Sex               - Indentity of gender: Male or Female.
-- Martial           - Status: Married, Divorced, Single, Widowed, Separated.
-- Income            - Number of dollars particpant makes.
-- Race              - Descent of ethnic group.
-- WaistCirc         - Measure (in centimeters) of participants waist circumference.
-- BMI               - Body Mass Index.
-- Albuminuria       - Level of protein, usually albumin, in urine. Also known as Proteinuria.
-- UrAlbCr           - The urine albumin to creatinine ratio.
-- UricAcid          - Measure of Uric Acid level.
-- BloodGlucose      - Measure of sugar in blood after fasting. 
-- HDL               - High Density Lipoprotein or beneficial cholesterol
-- Triglycerides     - Measure of common body fat present in blood.
-- MetabolicSyndrome - Does or does not have metabolic syndrome
+- Sex---------------- Indentity of gender: Male or Female.
+- Martial------------ Status: Married, Divorced, Single, Widowed, Separated.
+- Income------------- Number of dollars particpant makes.
+- Race--------------- Descent of ethnic group.
+- WaistCirc---------- Measure (in centimeters) of participants waist circumference.
+- BMI---------------- Body Mass Index.
+- Albuminuria-------- Level of protein, usually albumin, in urine. Also known as Proteinuria.
+- UrAlbCr------------ The urine albumin to creatinine ratio.
+- UricAcid----------- Measure of Uric Acid level.
+- BloodGlucose------- Measure of sugar in blood after fasting. 
+- HDL---------------- High Density Lipoprotein or beneficial cholesterol
+- Triglycerides------ Measure of common body fat present in blood.
+- MetabolicSyndrome-- Does or does not have metabolic syndrome
 
 
 
