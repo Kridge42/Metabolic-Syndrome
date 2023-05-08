@@ -9,10 +9,11 @@ This data comes from the National Center for Statistics.
 
 link to data.world source: https://data.world/informatics-edu/metabolic-syndrome-prediction
 
-link to reference: https://www.cdc.gov/nchs/data/nhsr/nhsr013.pdf
+
 
 National Health Statistics Reports n Number 13 n May 5, 2009 Page 5
 Table 1.
+link for table reference: https://www.cdc.gov/nchs/data/nhsr/nhsr013.pdf
 ATP III clinical identification of the metabolic syndrome
 Risk factor Defining level
 
