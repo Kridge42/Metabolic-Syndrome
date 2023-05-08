@@ -34,7 +34,7 @@ link to data.world source: https://data.world/informatics-edu/metabolic-syndrome
 - High levels of triglycerides in the blood.
   -  Triglycerides: ≥150 mg/dL.
 - High blood pressure 
- - Blood pressure: ≥135/≥85 mm Hg
+  - Blood pressure: ≥135/≥85 mm Hg
 - Large waist circumference or “apple-shaped” body.
   - Men  >102 cm (>40 in)
   - Women  >88 cm (>35 in)
@@ -45,23 +45,6 @@ link to data.world source: https://data.world/informatics-edu/metabolic-syndrome
 Source: https://www.heart.org/en/health-topics/metabolic-syndrome/about-metabolic-syndrome
 Source: https://www.cdc.gov/nchs/data/nhsr/nhsr013.pdf
 
-National Health Statistics Reports n Number 13 n May 5, 2009 Page 5
-Table 1.
-
-
-
-ATP III clinical identification of the metabolic syndrome
-Risk factor Defining level
-
-Abdominal obesity (waist circumference):
- 
-
-
-
- 
-
- 
-HDL cholesterol:
  
 
  
