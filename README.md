@@ -18,21 +18,21 @@ Risk factor Defining level
 
 Abdominal obesity (waist circumference):
  
-Men .................................. >102 cm (>40 in)
+- Men  >102 cm (>40 in)
 
-Women ................................ >88 cm (>35 in)
+- Women  >88 cm (>35 in)
  
-Triglycerides......................... ≥150 mg/dL
+Triglycerides: ≥150 mg/dL
  
 HDL cholesterol:
  
-Men .................................. <40 mg/dL
+- Men <40 mg/dL
  
-Women ................................ <50 mg/dL
+- Women <50 mg/dL
  
-Blood pressure: ...................... ≥135/≥85 mm Hg
+Blood pressure: ≥135/≥85 mm Hg
  
-Fasting glucose: ..................... ≥100 mg/dL
+Fasting glucose: ≥100 mg/dL
  
 NOTES: ATP III is Adult Treatment Panel III. Table taken from: Grundy SM, Brewer HB, Cleeman JI, Smith SC, Lenfant C.
 Definition of metabolic syndrome. Report of the National Heart, Lung, and Blood Institute/American Heart Association Conference
