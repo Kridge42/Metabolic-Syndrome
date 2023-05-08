@@ -25,7 +25,7 @@ link to data.world source: https://data.world/informatics-edu/metabolic-syndrome
 - Triglycerides-------Measure of common body fat present in blood.
 - MetabolicSyndrome---Does or does not have metabolic syndrome
 
-What is metabolic syndrome? Source: https://www.heart.org/en/health-topics/metabolic-syndrome/about-metabolic-syndrome
+What is metabolic syndrome? 
 - Metabolic syndrome is a group of five conditions that can lead to heart disease, diabetes, stroke and other health problems. 
 - Metabolic syndrome is diagnosed when someone has three or more of these risk factors: 
 
@@ -35,6 +35,7 @@ What is metabolic syndrome? Source: https://www.heart.org/en/health-topics/metab
   - Large waist circumference or “apple-shaped” body
   - High blood pressure
 
+Source: https://www.heart.org/en/health-topics/metabolic-syndrome/about-metabolic-syndrome
 
 National Health Statistics Reports n Number 13 n May 5, 2009 Page 5
 Table 1.
