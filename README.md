@@ -29,11 +29,11 @@ What is metabolic syndrome?
 - Metabolic syndrome is a group of five conditions that can lead to heart disease, diabetes, stroke and other health problems. 
 - Metabolic syndrome is diagnosed when someone has three or more of these risk factors: 
 
-  - High blood glucose (sugar)
-  - Low levels of HDL (“good”) cholesterol in the blood
-  - High levels of triglycerides in the blood
-  - Large waist circumference or “apple-shaped” body
-  - High blood pressure
+  - High blood glucose (sugar). Fasting glucose: ≥100 mg/dL
+  - Low levels of HDL (“good”). cholesterol in the blood.  Men <40 mg/dL, Women <50 mg/dL
+  - High levels of triglycerides in the blood. Triglycerides: ≥150 mg/dL.
+  - Large waist circumference or “apple-shaped” body. - Men  >102 cm (>40 in),  Women  >88 cm (>35 in).
+  - High blood pressure. Blood pressure: ≥135/≥85 mm Hg
 
 Source: https://www.heart.org/en/health-topics/metabolic-syndrome/about-metabolic-syndrome
 
@@ -47,21 +47,21 @@ Risk factor Defining level
 
 Abdominal obesity (waist circumference):
  
-- Men  >102 cm (>40 in)
 
-- Women  >88 cm (>35 in)
+
+
  
-Triglycerides: ≥150 mg/dL
+
  
 HDL cholesterol:
  
-- Men <40 mg/dL
+
  
-- Women <50 mg/dL
+
  
-Blood pressure: ≥135/≥85 mm Hg
+
  
-Fasting glucose: ≥100 mg/dL
+
  
 NOTES: ATP III is Adult Treatment Panel III. Table taken from: Grundy SM, Brewer HB, Cleeman JI, Smith SC, Lenfant C.
 Definition of metabolic syndrome. Report of the National Heart, Lung, and Blood Institute/American Heart Association Conference
