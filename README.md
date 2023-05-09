@@ -9,7 +9,7 @@ This data comes from the National Center for Statistics.
 
 link to data.world source: https://data.world/informatics-edu/metabolic-syndrome-prediction
 
-"C:\Users\ridge\Desktop\Images Notebook\Screenshot (48).png"
+["C:\Users\ridge\Desktop\Images Notebook\Screenshot (48).png"](https://github.com/Kridge42/Metabolic-Syndrome/blob/main/Screenshot%20(48).png)
 
 - seqn--------------- Identification number.
 - Age-----------------Age in years.
