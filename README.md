@@ -40,6 +40,7 @@ This data set contains no blood pressure measurements. One of the five condition
 These are major challenges for the predictive quality for the machine learning models. 
 
 ![image](https://user-images.githubusercontent.com/126993169/236965207-f0f9fd4e-4706-499e-8e1c-26c46e9bb1e6.png)
+- The positive (1) cases of metabolic syndrome almost exclusively exceed the 100 mg/dl for fasting blood glucose mark. Also worth noting is that a good percentage of positive instances are above the 150 mg/dL for triglycerides.
 
 ![image](https://user-images.githubusercontent.com/126993169/236965050-f206e0a5-3676-4531-b16f-f38f72b50210.png)
 
