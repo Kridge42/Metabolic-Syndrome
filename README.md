@@ -43,7 +43,7 @@ These are major challenges for the predictive quality for the machine learning m
 - The positive (1) cases of metabolic syndrome almost exclusively exceed the 100 mg/dl for fasting blood glucose. Also worth noting, is that a high percentage of positive instances are above the 150 mg/dL for triglycerides.
 
 ![image](https://user-images.githubusercontent.com/126993169/236965018-815d9807-2351-40b9-b975-15da9e3d19df.png)
-- The positive (1) cases of metabolic syndrome are shown here mainly with a BMI above 28 and a waist circumference 90 centimeters. 
+- The bulk of positive (1) cases of metabolic syndrome are shown here with a BMI above 28 and a waist circumference above 90 centimeters. 
 
 ![image](https://user-images.githubusercontent.com/126993169/236965050-f206e0a5-3676-4531-b16f-f38f72b50210.png)
 
