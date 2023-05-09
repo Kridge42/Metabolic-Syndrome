@@ -39,7 +39,7 @@ This data set contains no blood pressure measurements. One of the five condition
 
 These are major challenges for the predictive quality for the machine learning models. 
 
-# Exploratory Analyis
+# ## **Evaluation of visuals**
 
 ![image](https://user-images.githubusercontent.com/126993169/236965207-f0f9fd4e-4706-499e-8e1c-26c46e9bb1e6.png)
 - The positive (1) cases of metabolic syndrome almost exclusively exceed the 100 mg/dl for fasting blood glucose. Also worth noting, is that a high percentage of positive instances are above the 150 mg/dL for triglycerides.
@@ -51,6 +51,12 @@ These are major challenges for the predictive quality for the machine learning m
 - The positive (1) cases of metabolic syndrome are shown to have what is considered to be an overweight or obese BMI. In contrast, the negative (0) cases for metabolic syndrome are closer to what is considered to be in the normal BMI range.
 
 ![image](https://user-images.githubusercontent.com/126993169/236965084-5a73078f-8a17-455c-be7f-f1197997d344.png)
+- Most of the positive (1) cases of metabolic syndrome measured at less than 60 for the beneficial cholesterol known as HDL mg/dL. 
+
+### Random forest model
+
+![image](https://user-images.githubusercontent.com/126993169/236968481-4539b50e-e688-49c2-b8d1-bcea86505ac8.png)
+
 
 
 
