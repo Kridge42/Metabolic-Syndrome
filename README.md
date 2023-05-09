@@ -39,6 +39,8 @@ This data set contains no blood pressure measurements. One of the five condition
 
 These are major challenges for the predictive quality for the machine learning models. 
 
+![image](https://user-images.githubusercontent.com/126993169/236965207-f0f9fd4e-4706-499e-8e1c-26c46e9bb1e6.png)
+
 ![image](https://user-images.githubusercontent.com/126993169/236965050-f206e0a5-3676-4531-b16f-f38f72b50210.png)
 
 ![image](https://user-images.githubusercontent.com/126993169/236965018-815d9807-2351-40b9-b975-15da9e3d19df.png)
