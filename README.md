@@ -37,6 +37,8 @@ link to data.world source: https://data.world/informatics-edu/metabolic-syndrome
 
 This data set contains no blood pressure measurements. One of the five conditions measured to diagnose metabolic syndrome will not even be considered in this dataset. Along with the missing blood pressure readings, the dataset is very small, only 2401 participants. From the 2401 participants, only 34% or 816 were determined positive, this means the data is very imbalanced. 
 
+These are major challenges for the predictive quality for the machine learning models. 
+
 Create a README.md file in your GitHub repository.  This README should include:
 Your business problem and stakeholders
 The source of your data
