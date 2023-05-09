@@ -33,6 +33,21 @@ link to data.world source: https://data.world/informatics-edu/metabolic-syndrome
 - Source: https://www.heart.org/en/health-topics/metabolic-syndrome/about-metabolic-syndrome
 - Source: https://www.cdc.gov/nchs/data/nhsr/nhsr013.pdf
 
+# Data Analysis
+
+This data set contains no blood pressure measurements. One of the five conditions measured to diagnose metabolic syndrome will not even be considered in this dataset. Along with the missing blood pressure readings, the dataset is very small, only 2401 participants. From the 2401 participants, only 34% or 816 were determined positive, this means the data is very imbalanced. 
+
+Create a README.md file in your GitHub repository.  This README should include:
+Your business problem and stakeholders
+The source of your data
+A description of your data
+2 analytical insights from your data analysis.  
+You can use the 2 plots from Project 2, part 3 for this!
+They should include visualizations AND written interpretations
+The metrics for your best model
+A description of how well your model would solve your business problem
+A summary with at least 2 recommendations for your stakeholders, based on your model performance AND analytical findings.
+
  
 
  
