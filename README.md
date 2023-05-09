@@ -75,23 +75,6 @@ Thoughts to include for a larger data sample:
 - In place of monthly income and marital status; I would like to see calories consumed daily, height, weight, and body fat percentage. 
 - Ask each participant their stress level 1 to 10. 
 
-
-
-
-
-
-
-Create a README.md file in your GitHub repository.  This README should include:
-Your business problem and stakeholders
-The source of your data
-A description of your data
-2 analytical insights from your data analysis.  
-You can use the 2 plots from Project 2, part 3 for this!
-They should include visualizations AND written interpretations
-The metrics for your best model
-A description of how well your model would solve your business problem
-A summary with at least 2 recommendations for your stakeholders, based on your model performance AND analytical findings.
-
  
 
  
