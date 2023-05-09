@@ -57,7 +57,8 @@ These are major challenges for the predictive quality for the machine learning m
 
 ![image](https://user-images.githubusercontent.com/126993169/236968481-4539b50e-e688-49c2-b8d1-bcea86505ac8.png)
 
-![image](https://user-images.githubusercontent.com/126993169/236968913-b3d52efe-8051-4b54-bded-34aaee683406.png)
+![Screenshot (49)](https://user-images.githubusercontent.com/126993169/236969489-96ec3b2c-44f1-4882-81a4-c6dac9a01470.png)
+
 
 
 
