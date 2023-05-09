@@ -46,6 +46,7 @@ These are major challenges for the predictive quality for the machine learning m
 - The bulk of positive (1) cases of metabolic syndrome are shown here with a BMI above 28 and a waist circumference above 90 centimeters. 
 
 ![image](https://user-images.githubusercontent.com/126993169/236965050-f206e0a5-3676-4531-b16f-f38f72b50210.png)
+- The positive (1) cases of metabolic syndrome are shown to have what is considered to be an overweight or obese BMI. In contrast, the negative (0) cases for metabolic syndrome are closer to what is considered to be in the normal BMI range.
 
 ![image](https://user-images.githubusercontent.com/126993169/236965084-5a73078f-8a17-455c-be7f-f1197997d344.png)
 
