@@ -39,6 +39,14 @@ This data set contains no blood pressure measurements. One of the five condition
 
 These are major challenges for the predictive quality for the machine learning models. 
 
+![image](https://user-images.githubusercontent.com/126993169/236965050-f206e0a5-3676-4531-b16f-f38f72b50210.png)
+
+![image](https://user-images.githubusercontent.com/126993169/236965018-815d9807-2351-40b9-b975-15da9e3d19df.png)
+
+![image](https://user-images.githubusercontent.com/126993169/236965084-5a73078f-8a17-455c-be7f-f1197997d344.png)
+
+
+
 Create a README.md file in your GitHub repository.  This README should include:
 Your business problem and stakeholders
 The source of your data
